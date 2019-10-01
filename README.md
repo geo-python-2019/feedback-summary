@@ -31,3 +31,23 @@ Word cloud plots in this notebook are based on this tutorial: https://www.dataca
 ## Q2: 'Is the content of the lessons too simple, too difficult, or about right?'
 
 ![Q2 wordcloud](fig/wordcloud_Q2.png)
+
+
+## Q3: 'Is the content of the exercises too simple, too difficult, or about right?'
+
+![Q3 wordcloud](fig/wordcloud_Q3.png)
+
+## Q4: 'Which aspect(s) of the course is/are most helpful to you?'
+
+![Q4 wordcloud](fig/wordcloud_Q4.png)
+
+
+## Q5: 'Which aspect(s) of the course is/are least helpful to you?'
+
+![Q5 wordcloud](fig/wordcloud_Q5.png)
+
+
+
+
+Source code for generating the word clouds is available in [mid-term-feedback.ipynb](mid-term-feedback.ipynb) :)
+
