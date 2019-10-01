@@ -28,6 +28,6 @@ Word cloud plots in this notebook are based on this tutorial: https://www.dataca
 
 ![Q1 wordcloud](fig/wordcloud_Q1.png)
 
-## Q2: 'Is the pace of the lessons too fast, too slow, or about right?'
+## Q2: 'Is the content of the lessons too simple, too difficult, or about right?'
 
 ![Q2 wordcloud](fig/wordcloud_Q2.png)
