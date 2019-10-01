@@ -10,7 +10,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 import matplotlib.pyplot as plt
 
-def plot_word_cloud(text):
+def plot_word_cloud(text, q):
     """Plot word cloud. Based on this data camp tutorial: https://www.datacamp.com/community/tutorials/wordcloud-python"""
     
     # Create stopword list:
@@ -28,3 +28,5 @@ def plot_word_cloud(text):
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     plt.show()
+    
+    plt.savefig("fig/wordcloud_%s.png" % q)
