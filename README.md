@@ -22,3 +22,12 @@ In stead of highlighting individual quotes from the feedback, we tested how the 
 A wordcloud summarizes a bunch of text, calculates word frequencies. The more popular the word, the bigger the text in the word cloud.
 
 Word cloud plots in this notebook are based on this tutorial: https://www.datacamp.com/community/tutorials/wordcloud-python
+
+
+## Q1: 'Is the pace of the lessons too fast, too slow, or about right?'
+
+![Q1 wordcloud](fig/wordcloud_Q1.png)
+
+## Q2: 'Is the pace of the lessons too fast, too slow, or about right?'
+
+![Q2 wordcloud](fig/wordcloud_Q2.png)
