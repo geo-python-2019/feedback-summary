@@ -16,8 +16,8 @@ Summarizing the mid-term feedback for Geo-Python 2019.
 - thanks for all the positive feedback and useful suggestions! We are continuously developing the course forwards
 - this is a beginner level course, that forms the basis for more advanced content in period 2. We are taking things (rather) easy during the first weeks so that no one would be left behind. 
 - Of course, we hope to provide useful content and enough challenge for those who already have some programming experience :) 
-- Jupyter notebooks and Jupyter Lab is great! More focus on the scientific data analysis workflow, interactive plots etc.
-- Using Jupyter Lab trough CSC notebooks allows everyone to have an identical working environment (in stead of setting up things on 100 different laptops). Of course, we encourage you to install Python also on your own machine at some point.
+- Jupyter notebooks and Jupyter Lab are great! :) 
+- Using Jupyter Lab trough CSC notebooks allows everyone to have an identical working environment (in stead of setting up things on 100 different laptops). This makes it easier to organize the interactive lessons, and allows us to start programming from week 1 withouth too much technical hassle. Of course, we encourage you to install Python also on your own machine at some point.
 
 # Wordclouds!
 In stead of highlighting individual quotes from the feedback, we tested how the feedback would look like as wordclouds :D 
